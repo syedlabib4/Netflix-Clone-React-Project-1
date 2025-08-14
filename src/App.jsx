@@ -9,8 +9,8 @@ const App = () => {
   return (
     
     <div>
-      <Login />
       <Home />
+      
     </div>
   )
 }
