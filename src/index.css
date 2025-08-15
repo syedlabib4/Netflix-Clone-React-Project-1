@@ -12,6 +12,8 @@ body {
   background-color: #000;
   color: white;
   font-family:'poppins';
+    overflow-x: hidden;
+    overflow-y: hidden;
 }
 
 
